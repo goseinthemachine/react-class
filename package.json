@@ -1,0 +1,18 @@
+{
+  "name": "day-one",
+  "version": "1.0.0",
+  "description": "React intro class",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "author": "Cameron Gose",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
